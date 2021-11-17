@@ -1,5 +1,5 @@
 {
-  "name": "glo-error",
+  "name": "@glocalize-inc/glo-error",
   "version": "0.0.1",
   "description": "서버 에러를 한 곳에서 관리하여, 일관성있게 사용하고 싶었다",
   "author": "yungik@glocalizeinc.com",
